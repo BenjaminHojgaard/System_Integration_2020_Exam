@@ -1,5 +1,10 @@
 # System_Integration_2020_Exam
 
+## Group members:
+Mads Andersen
+Sebastian Harvej
+Malene Hansen
+Benjamin Højgaard
 
 ## Instructions
 1. Make sure you have Docker Desktop installed on your machine.
