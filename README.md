@@ -8,7 +8,7 @@
 4. Wait for the startup process to finish (this can take a while).
 5. Under certain circumstances the broker container won't start (cause unknown) and you will have to start it manually through the Docker Desktop UI.
 6. Go to localhost:1337 and enter one of the following cities into the input field: 
-- Berlin 
-- Copenhagen 
-- Moscow 
-- New York.
+-- Berlin 
+-- Copenhagen 
+-- Moscow 
+-- New York.
